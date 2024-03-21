@@ -1,0 +1,18 @@
+Assasin	fire	Leoxane	0	13	40	2	Leoxane makes an empowered attack. It has %50 crit rate and +5 damage bonus.
+Tank	fire	Mobayi	1	5	80	2	Mobayi gains 20 hp.
+Mage	fire	Marcus	2	8	38	2	Marcus sacrifices 5 hp to gain +5 atk and deals damage. 
+Mage	fire	Bebi	3	9	37	3	Bebi gains permanent +10 hp and +5 attack damage.
+Mage	water	Muccuk	4	9	36	3	Muccuk stuns the enemy Assasin and deals damage.
+Assasin	water	Bedocan	5	13	35	2	Bedocan increases his skill damage by 10 and deals damage to enemy card.
+Support	water	Lorach	6	4	40	3	Lorach heals the Assasin in his team +15 hp and grants him +3 attack bonus
+Mage	water	Umai	7	7	37	2	Umai gives area damage to 3 enemy card. If there is only 1 enemy card, damage increases. 
+Tank	earth	Bromen	8	6	81	1	Bromen shields 3 hp everyone in his team. 
+Assasin	earth	Jagu	9	13	40	2	Jagu increases his skill damage by 5 and heals himself half of damage dealt.
+Marksman	earth	Atreus	10	13	38	3	Atreus attacks and gains permanent 5 attack damage.
+Mage	earth	Lisa	11	7	37	4	Lisa stuns the opposing team's card with the most attack damage 2 rounds.  
+Tank	earth	Gus	12	4	79	3	Gus stuns and reduces the attack damage of opposing team's card with the most attack damage by 5.
+Support	water	Saul	13	3	45	2	Saul heals the tank in his team 15 hp. 
+Assasin	fire	Hector	14	10	38	2	Hector randomly kills one card from enemy team in exchange of his own life. They both die.
+Mage	fire	Xeno	15	9	35	2	Xeno gains 5 hp shield and deals damage to everyone in enemy team.
+Support	earth	Terra	16	4	50	3	Terra heals the lowest hp card in his team 20 hp and increases their attack by 5. 
+Marksman	earth	Napo	17	14	37	3	Napo boosts his team and increases everyone's attack damage by 3 permanently.

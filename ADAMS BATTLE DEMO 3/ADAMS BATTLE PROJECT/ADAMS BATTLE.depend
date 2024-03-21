@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1703946871 source:c:\users\user\desktop\adams battle\card.cpp
+	<iostream>
+	"card.h"
+	"game.h"
+	"player.h"
+	"skills.h"
+	<string>
+	<cstdlib>
+	<algorithm>
+	<Windows.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1703863075 c:\users\user\desktop\adams battle\card.h
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	<algorithm>
+
+1703931598 c:\users\user\desktop\adams battle\game.h
+	"card.h"
+	"player.h"
+	"skills.h"
+	<Windows.h>
+	<iomanip>
+	<vector>
+	<string>
+	<iostream>
+
+1703858399 c:\users\user\desktop\adams battle\player.h
+	"card.h"
+	<string>
+	<vector>
+
+1703858338 c:\users\user\desktop\adams battle\skills.h
+	<iostream>
+	"card.h"
+	<vector>
+
+1703933418 source:c:\users\user\desktop\adams battle\game.cpp
+	"game.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<Windows.h>
+	<iomanip>
+	"card.h"
+	<vector>
+	"player.h"
+	"skills.h"
+
+1703933831 source:c:\users\user\desktop\adams battle\main.cpp
+	"card.h"
+	"skills.h"
+	"game.h"
+	"player.h"
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<vector>
+
+1703943667 source:c:\users\user\desktop\adams battle\player.cpp
+	"card.h"
+	"player.h"
+	"game.h"
+	"skills.h"
+	<string>
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1703948235 source:c:\users\user\desktop\adams battle\skills.cpp
+	<iostream>
+	"card.h"
+	"skills.h"
+	"player.h"
+	"game.h"
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<string>
+
+1703946871 source:c:\users\user\desktop\adams battle project\card.cpp
+	<iostream>
+	"card.h"
+	"game.h"
+	"player.h"
+	"skills.h"
+	<string>
+	<cstdlib>
+	<algorithm>
+	<Windows.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1703863075 c:\users\user\desktop\adams battle project\card.h
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	<algorithm>
+
+1703931598 c:\users\user\desktop\adams battle project\game.h
+	"card.h"
+	"player.h"
+	"skills.h"
+	<Windows.h>
+	<iomanip>
+	<vector>
+	<string>
+	<iostream>
+
+1703858399 c:\users\user\desktop\adams battle project\player.h
+	"card.h"
+	<string>
+	<vector>
+
+1703858338 c:\users\user\desktop\adams battle project\skills.h
+	<iostream>
+	"card.h"
+	<vector>
+
+1703933418 source:c:\users\user\desktop\adams battle project\game.cpp
+	"game.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<Windows.h>
+	<iomanip>
+	"card.h"
+	<vector>
+	"player.h"
+	"skills.h"
+
+1704016623 source:c:\users\user\desktop\adams battle project\skills.cpp
+	<iostream>
+	"card.h"
+	"skills.h"
+	"player.h"
+	"game.h"
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<string>
+
+1704208474 source:c:\users\user\desktop\adams battle project\main.cpp
+	"card.h"
+	"skills.h"
+	"game.h"
+	"player.h"
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<vector>
+
+1704208501 source:c:\users\user\desktop\adams battle project\player.cpp
+	"card.h"
+	"player.h"
+	"game.h"
+	"skills.h"
+	<string>
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
